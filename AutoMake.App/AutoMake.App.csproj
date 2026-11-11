@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\AutoMake.Core\AutoMake.Core.csproj" />
+    <ProjectReference Include="..\AutoMake.Workflow\AutoMake.Workflow.csproj" />
+    <ProjectReference Include="..\AutoMake.Desktop\AutoMake.Desktop.csproj" />
+    <ProjectReference Include="..\AutoMake.Browser\AutoMake.Browser.csproj" />
+    <ProjectReference Include="..\AutoMake.Infrastructure\AutoMake.Infrastructure.csproj" />
+    <ProjectReference Include="..\AutoMake.Scripting\AutoMake.Scripting.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+</Project>

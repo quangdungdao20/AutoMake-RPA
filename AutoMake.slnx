@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/docs/" />
+  <Folder Name="/tests/" />
+  <Project Path="AutoMake.App/AutoMake.App.csproj" />
+  <Project Path="AutoMake.Browser/AutoMake.Browser.csproj" />
+  <Project Path="AutoMake.Core/AutoMake.Core.csproj" />
+  <Project Path="AutoMake.Desktop/AutoMake.Desktop.csproj" />
+  <Project Path="AutoMake.Infrastructure/AutoMake.Infrastructure.csproj" />
+  <Project Path="AutoMake.Scripting/AutoMake.Scripting.csproj" />
+  <Project Path="AutoMake.Workflow/AutoMake.Workflow.csproj" />
+</Solution>
